@@ -16,3 +16,4 @@ spec:
                 name: ${APP_NAME}
                 port:
                   number: 80
+                targetPort: ${APP_PORTS}
